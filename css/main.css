@@ -202,7 +202,7 @@ Navigation Style
   padding-right: 15px;
 }
 .navbar-default .nav-wrap {
-  width: 50%;
+  width: 40%;
 }
 .navbar-default .nav > li > a {
   font-size: 14px;
@@ -226,6 +226,7 @@ Navigation Style
 }
 .navbar-default .social-media i {
   font-size: 22px;
+  width: 100%
 }
 
 .navbar-default .navbar-nav > .active > a,
@@ -715,7 +716,7 @@ Media Queries Style
     height: 52px;
   }
   .navbar-default .nav-wrap {
-    width: 100%;
+    width: 40%;
   }
   .navbar-default .navbar-toggle {
     padding-top: 25px;
@@ -781,4 +782,8 @@ Media Queries Style
   #testimonials h5 {
     font-size: 18px;
   }
+}
+
+.fbicon{
+    padding-right: 20px;
 }
