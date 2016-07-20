@@ -784,6 +784,10 @@ Media Queries Style
   }
 }
 
-.fbicon{
-    padding-right: 20px;
+img.ferotermlogo{
+    padding-top: 30px;
+}
+
+img.sanlajsnelogo{
+    padding-top: 30px;
 }
