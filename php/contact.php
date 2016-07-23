@@ -4,7 +4,7 @@ $name = $_POST["form_name"];
 $email = $_POST["form_email"];
 $message = $_POST["form_message"];
 
-$EmailTo = "info@archidea-studio.com";
+$EmailTo = "info@kalegno.com";
 $Subject = "Nova Poruka";
 
 $Body .= "Ime: ";
