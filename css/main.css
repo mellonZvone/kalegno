@@ -791,3 +791,13 @@ img.ferotermlogo{
 img.sanlajsnelogo{
     padding-top: 30px;
 }
+
+.footerText p {
+    color: #fff;
+}
+
+@media (max-width: 800px) {
+    h1{
+        font-size: 40px;
+    }
+}
